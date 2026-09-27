@@ -1,3 +1,5 @@
+> **Fork notice:** this repository is a fork of https://github.com/undefined-ui/second-brain-os by undefined-ui, licensed under MIT. The original code remains the property of its authors. See [FORK_NOTICE.md](FORK_NOTICE.md).
+
 # AI Second Brain
 
 A knowledge base that an AI agent builds and maintains for you, in plain
